@@ -1,0 +1,105 @@
+# Câmpuri raport Nexus ID_RAP 1697
+
+Format: `camp -> denumire`
+
+- `nr_doc` -> `Nr. oferta`
+- `data_doc` -> `Data oferta`
+- `observatii` -> `Observatii`
+- `nume_cli` -> `Denumire client`
+- `nume_pers` -> `Nume agent`
+- `nume_gest` -> `Denumire gestiune`
+- `nume_cls` -> `Denumire clasificare`
+- `SOC_NUME` -> `Soc. Denumire`
+- `SOC_REGISTRU` -> `Soc. Registru comertului`
+- `SOC_CIF` -> `Soc. CIF`
+- `SOC_TELEFON` -> `Soc. Telefon`
+- `SOC_FAX` -> `Soc. Fax`
+- `SOC_MAIL` -> `Soc. Mail`
+- `SOC_SITE` -> `Soc. Site`
+- `SOC_JUDET` -> `Soc. Judet`
+- `SOC_LOCALITATE` -> `Soc. Localitate`
+- `SOC_ADRESA` -> `Soc. Adresa`
+- `SOC_BANCA1` -> `Soc. Banca1`
+- `SOC_BANCA1_FILIALA` -> `Soc. Banca1 Filiala`
+- `SOC_BANCA1_CONT` -> `Soc. Banca1 Cont`
+- `SOC_BANCA1_BIC` -> `Soc. Banca1 Bic`
+- `SOC_BANCA1_DEVIZ` -> `Soc. Banca1 Deviz`
+- `SOC_BANCA2` -> `Soc. Banca2`
+- `SOC_BANCA2_FILIALA` -> `Soc. Banca2 Filiala`
+- `SOC_BANCA2_CONT` -> `Soc. Banca2 Cont`
+- `SOC_BANCA2_BIC` -> `Soc. Banca2 Bic`
+- `SOC_BANCA2_DEVIZ` -> `Soc. Banca2 Deviz`
+- `SOC_BANCA3` -> `Soc. Banca3`
+- `SOC_BANCA3_FILIALA` -> `Soc. Banca3 Filiala`
+- `SOC_BANCA3_CONT` -> `Soc. Banca3 Cont`
+- `SOC_BANCA3_BIC` -> `Soc. Banca3 Bic`
+- `SOC_BANCA3_DEVIZ` -> `Soc. Banca3 Deviz`
+- `SOC_BANCA4` -> `Soc. Banca4`
+- `SOC_BANCA4_FILIALA` -> `Soc. Banca4 Filiala`
+- `SOC_BANCA4_CONT` -> `Soc. Banca4 Cont`
+- `SOC_BANCA4_BIC` -> `Soc. Banca4 Bic`
+- `SOC_BANCA4_DEVIZ` -> `Soc. Banca4 Deviz`
+- `SOC_DIR_GEN_NUME` -> `Soc. Director general`
+- `SOC_DIR_GEN_FUNCTIA` -> `Soc. Director general Functia`
+- `SOC_DIR_ECO_NUME` -> `Soc. Director economic`
+- `SOC_DIR_ECO_FUNCTIA` -> `Soc. Director economic Functia`
+- `SOC_CAPITAL_SOCIAL` -> `Soc. Capital social`
+- `SOC_COTA_TVA` -> `Soc. Cota TVA`
+- `PART_NUME` -> `Part. Denumire`
+- `PART_REGISTRU` -> `Part. Registru comertului`
+- `PART_CIF` -> `Part. CIF`
+- `PART_TELEFON` -> `Part. Telefon`
+- `PART_FAX` -> `Part. Fax`
+- `PART_MAIL` -> `Part. Mail`
+- `PART_SITE` -> `Part. Site`
+- `PART_JUDET` -> `Part. Judet`
+- `PART_LOCALITATE` -> `Part. Localitate`
+- `PART_ADRESA` -> `Part. Adresa`
+- `PART_BANCA` -> `Part. Banca`
+- `PART_CONT` -> `Part. Cont`
+- `PART_MANAGER` -> `Part. Manager`
+- `PART_GRUPA_DISCOUNT` -> `Part. Grupa discount`
+- `PART_TERMEN_INCASARE` -> `Part. Termen incasare`
+- `PART_RESTANTA_MAXIMA` -> `Part. Restanta maxima`
+- `PART_AGENT_COMERCIAL` -> `Part. Agent comercial`
+- `PART_OBSERVATII` -> `Part. Observatii`
+- `PART_OBSERVATII_FACTURARE` -> `Part. Observatii facturare`
+- `PART_CLASIFICARE` -> `Part. Clasificare`
+- `PART_NUMAR_CONTRACT` -> `Part. Numar contract`
+- `PART_DATA_CONTRACT` -> `Part. Data contract`
+- `FACTURA_POZITII` -> `Numar pozitii factura`
+- `FACTURA_CANTITATE_UM` -> `Cantitate UM factura`
+- `TABEL_CANTITATIV` -> `Tabel produse cantitativ`
+- `TABEL_CANTITATIVTVA9` -> `Tabel produse cu TVA 9% cantitativ`
+- `TABEL_PRODUSE` -> `Tabel produse`
+- `PART_DELEGAT` -> `Part. Delegat`
+- `PART_DELEGAT_MAIL` -> `Part. Delegat mail`
+- `PART_DELEGAT_TELEFON` -> `Part. Delegat telefon`
+- `valabil` -> `Zile valabilitate`
+- `data_valabil` -> `Data valabilitate`
+- `telefon_agent` -> `Telefon agent`
+- `mail_agent` -> `Mail agent`
+- `valoare` -> `Valoare fara TVA`
+- `val_tva` -> `Valoare TVA`
+- `val_cutva` -> `Valoare cu TVA`
+- `TABEL_PRODUSE_POZE` -> `Tabel produse cu poze`
+- `nume_preg` -> `Nume pregatire`
+- `functia_agent` -> `Functia agent`
+- `telefon_pregatire` -> `Telefon pregatire`
+- `mail_pregatire` -> `Mail pregatire`
+- `functia_pregatire` -> `Functia pregatire`
+- `NUME_PERS_SEC` -> `Agent vanzare secundar`
+- `MOD_PLT` -> `Mod de plata`
+- `DEN_COD_INCOTERMS` -> `Conditii de livrare`
+- `mail_secundar` -> `Mail Agent secundar`
+- `telefon_secundar` -> `Telefon Agent secundar`
+- `functia_secundar` -> `Functia Agent secundar`
+- `locatie_livrare` -> `Locatie livrare`
+- `zile_lim` -> `Termen de plata (zile)`
+- `NUME_DEVIZ` -> `Denumire deviz`
+- `PRESC_DEVIZ` -> `Prescurtare deviz`
+- `TABEL_TOTALURI_DEVIZ` -> `Tabel totaluri deviz`
+- `adr_liv` -> `Adresa de livrare`
+- `identif` -> `Identificator`
+- `nume_ruta` -> `Ruta transport oferta`
+- `den_adrinc` -> `Denumire adresa de incarcare`
